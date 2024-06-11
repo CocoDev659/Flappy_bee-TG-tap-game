@@ -14,8 +14,8 @@ const Nav = ({ handleClick, showNav }) => {
                 <TbChevronLeft className='text-3xl'/>
             </a>
             <div className='flex flex-row items-center gap-3'>
-                <img width={25} height={25} src={"/logo.svg"} alt='' />
-                <p className='text-[18px] font-bold text-[#FEFEFE]'>MIKE BOT</p>
+                <img width={20}  src={"/assets/images/Yuki.png"} alt='' />
+                <p className='text-[18px] font-bold text-[#FEFEFE]'>Yuki Tap Game</p>
             </div>
             {/* <HiOutlineDotsVertical className='text-[#FEFEFE] text-3xl hidden' /> */}
         </div>

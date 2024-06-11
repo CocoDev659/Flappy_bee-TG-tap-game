@@ -7,15 +7,15 @@ import "aos/dist/aos.css";
 
 const Earn = () => {
 
-  useEffect(() => {
-    AOS.init({
-        easing: 'ease-in-out',
-        duration: 700,
-    });
-}, [])
+//   useEffect(() => {
+//     AOS.init({
+//         easing: 'ease-in-out',
+//         duration: 700,
+//     });
+// }, [])
 
   return (
-    <div className='pt-[4%] px-[4%] h-[120vh] flex flex-col gap-2'>
+    <div className='pt-[20px] px-[10px] h-[100vh] flex flex-col gap-2'>
       <div className='w-full justify-center flex'>
         <CoinCard
           image='/coin1.svg'

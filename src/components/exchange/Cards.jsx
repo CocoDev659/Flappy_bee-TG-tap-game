@@ -7,7 +7,7 @@ import CoinCard from '../reuseable/CoinCard'
 
 const Card = () => {
     return (
-        <div className='flex flex-col gap-4 px-[4%]'>
+        <div className='flex flex-col gap-4'>
             <div className='grid grid-cols-3 gap-3 w-full items-center'>
                 <CardProps
                     title={"Earn per tap"}

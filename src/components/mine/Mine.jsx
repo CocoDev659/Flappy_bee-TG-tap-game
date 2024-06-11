@@ -5,23 +5,19 @@ import AOS from 'aos'
 import "aos/dist/aos.css";
 const Mine = () => {
 
-    useEffect(() => {
-        AOS.init({
-            easing: 'ease-in-out',
-            duration: 700,
-        });
-    }, [])
+    // useEffect(() => {
+    //     AOS.init({
+    //         easing: 'ease-in-out',
+    //         duration: 700,
+    //     });
+    // }, [])
 
     return (
-        <div className='pt-[5%] h-[120vh] overflow-y-scroll flex flex-col gap-2 px-[4%]'>
-            <div className='w-full flex gap-2 items-center text-white z-[5000]'>
+        <div className='pt-[20px] h-[100vh] overflow-y-scroll flex flex-col gap-2 px-[10px]'>
+            <div className='w-full flex items-center text-white z-[5000]'>
                 <div className='w-full border-[1px] border-[#00FC87] flex gap-2 bg-black rounded-md items-center py-2 justify-center'>
-                    <img width={20} height={20} src={"/logo.svg"} alt='' />
-                    <p>MKT (Mike)</p>
-                </div>
-                <div className='w-full border-[1px] border-[#00FC87] bg-black flex gap-2 items-center justify-center py-2 rounded-md'>
-                    <img width={20} height={20} src={"/binance.png"} alt='' />
-                    <p>Binance</p>
+                    <img width={20} height={20} src={"/assets/images/Yuki.png"} alt='' />
+                    <p>YUKI (Yuki)</p>
                 </div>
             </div>
             <Card />
@@ -43,7 +39,9 @@ const Mine = () => {
                 </div>
             </div>
             <div data-aos="flip-left" className='flex relative flex-col items-center justify-center'>
-                <img src={"/minee.svg"} width={270} height={270} className="" alt='' />
+                <div className='flex w-[270px] h-[270px] bg-green-600 rounded-[100%] items-center justify-center'>
+                <img src={"/assets/images/Yuki.png"} width={"45%"}  className="" alt='' />
+                </div>
             </div>
             <div className='flex flex-row justify-between text-white'>
                 <div className='flex flex-row text-white items-center gap-2'>
