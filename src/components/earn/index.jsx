@@ -15,7 +15,7 @@ const Earn = () => {
 // }, [])
 
   return (
-    <div className='pt-[20px] px-[10px] h-[100vh] flex flex-col gap-2'>
+    <div className='pt-[20px] px-[20px] h-[100vh] flex flex-col gap-2'>
       <div className='w-full justify-center flex'>
         <CoinCard
           image='/coin1.svg'
@@ -44,7 +44,7 @@ const Earn = () => {
       </div>
       <div className='text-white flex flex-col gap-1'>
         <p>Tasks list</p>
-        <div data-aos="fade-up-left" className='flex flex-col gap-3'>
+        <div data-aos="fade-up" className='flex flex-col gap-3'>
           {
             taskList.map((t, i) => (
               <div key={i} className='px-4 py-1 bg-black border border-[#00FC87] flex w-full justify-between items-center rounded-[8px]'>
