@@ -1,0 +1,480 @@
+{
+  "mine": {
+    "markets": [
+      {
+        "image": "/images/fan_tokens.webp",
+        "title": "Fan tokens"
+      },
+      {
+        "image": "/images/staking.svg",
+        "title": "Staking"
+      },
+      {
+        "image": "/images/btc_pairs.svg",
+        "title": "BTC pairs"
+      },
+      {
+        "image": "/images/eth_pairs.svg",
+        "title": "ETH pairs"
+      },
+      {
+        "image": "/images/cmc.svg",
+        "title": "Top 10 cmc pairs"
+      },
+      {
+        "image": "/images/gamefi_tokens.svg",
+        "title": "GameFi tokens"
+      },
+      {
+        "image": "/images/defi2.0_tokens.svg",
+        "title": "Defi2.0 tokens"
+      },
+      {
+        "image": "/images/socialfi_tokens.svg",
+        "title": "SocialFi tokens"
+      },
+      {
+        "image": "/images/meme_coins.webp",
+        "title": "Meme coins"
+      },
+      {
+        "image": "/images/shit_coins.svg",
+        "title": "Shit coins"
+      },
+      {
+        "image": "/images/margin_trading_x100.svg",
+        "title": "Margin trading x100"
+      },
+      {
+        "image": "/images/margin_trading_x20.svg",
+        "title": "Margin trading x20"
+      },
+      {
+        "image": "/images/margin_trading_x30.svg",
+        "title": "Margin trading x30"
+      },
+      {
+        "image": "/images/margin_trading_x50.svg",
+        "title": "Margin trading x50"
+      },
+      {
+        "image": "/images/margin_trading_x75.svg",
+        "title": "Margin trading x75"
+      },
+      {
+        "image": "/images/margin_trading_x100.svg",
+        "title": "Margin trading x100"
+      },
+      {
+        "image": "/images/derivaties.svg",
+        "title": "Derivatives"
+      },
+      {
+        "image": "/images/prediction_markets.svg",
+        "title": "Prediction markets"
+      },
+      {
+        "image": "/images/web3_integration.svg",
+        "title": "Web3 integration"
+      },
+      {
+        "image": "/images/dao.webp",
+        "title": "DAO"
+      },
+      {
+        "image": "/images/p2p_trading.webp",
+        "title": "P2P trading"
+      },
+      {
+        "image": "/images/trading_bots.webp",
+        "title": "Trading bots"
+      }
+    ],
+    "team": [
+      {
+        "image": "/images/support_team.webp",
+        "title": "Support team"
+      },
+      {
+        "image": "/images/hamster_book.svg",
+        "title": "HamsterBook"
+      },
+      {
+        "image": "/images/x.svg",
+        "title": "X"
+      },
+      {
+        "image": "/images/cointelegraph.svg",
+        "title": "Cointelegraph"
+      },
+      {
+        "image": "/images/hamster_tube.svg",
+        "title": "HamsterTube"
+      },
+      {
+        "image": "/images/hamster_gram.svg",
+        "title": "HamsterGram"
+      },
+      {
+        "image": "/images/tiktok.svg",
+        "title": "TikTok"
+      },
+      {
+        "image": "/images/coindesk.svg",
+        "title": "Coindesk"
+      },
+      {
+        "image": "/images/influencers.svg",
+        "title": "Influencers"
+      },
+      {
+        "image": "/images/ceo.svg",
+        "title": "CEO"
+      },
+      {
+        "image": "/images/it_team.svg",
+        "title": "IT team"
+      },
+      {
+        "image": "/images/marketing.svg",
+        "title": "Marketing"
+      },
+      {
+        "image": "/images/partnership_program.svg",
+        "title": "Partnership program"
+      },
+      {
+        "image": "/images/product_team.svg",
+        "title": "Product team"
+      },
+      {
+        "image": "/images/bisdev_team.svg",
+        "title": "BisDev team"
+      },
+      {
+        "image": "/images/2fa.svg",
+        "title": "Two factor authentication"
+      },
+      {
+        "image": "/images/ux_ui_team.webp",
+        "title": "UX and UI team"
+      },
+      {
+        "image": "/images/security_team.webp",
+        "title": "Security team"
+      },
+      {
+        "image": "/images/qa_team.webp",
+        "title": "QA team"
+      },
+      {
+        "image": "/images/antihacking_shield.webp",
+        "title": "Antihacking shield"
+      },
+      {
+        "image": "/images/risk_management_team.webp",
+        "title": "Risk management team"
+      },
+      {
+        "image": "/images/security_audition.webp",
+        "title": "Security audition"
+      },
+      {
+        "image": "/images/anonymous_transactions_ban.webp",
+        "title": "Anonymous transactions ban"
+      },
+      {
+        "image": "/images/blocking_suspicious_accounts.webp",
+        "title": "Blocking suspicious accounts"
+      },
+      {
+        "image": "/images/tokenomics_expert.webp",
+        "title": "Tokenomics expert"
+      },
+      {
+        "image": "/images/consensys_explorer_pass.webp",
+        "title": "Consensys explorer pass"
+      },
+      {
+        "image": "/images/vc_labs.webp",
+        "title": "VC Labs"
+      },
+      {
+        "image": "/images/compliance_officer.webp",
+        "title": "Compliance officer"
+      },
+      {
+        "image": "/images/money_20_20.webp",
+        "title": "Welcome to Amsterdam"
+      }
+    ],
+    "legal": [
+      {
+        "image": "/images/kyc.svg",
+        "title": "KYC"
+      },
+      {
+        "image": "/images/kyb.svg",
+        "title": "KYB"
+      },
+      {
+        "image": "/images/legal_opinion.svg",
+        "title": "Legal opinion"
+      },
+      {
+        "image": "/images/sec_transparancy.webp",
+        "title": "SEC transparancy"
+      },
+      {
+        "image": "/images/anti_money_loundering.svg",
+        "title": "Anti money loundering"
+      },
+      {
+        "image": "/images/licence_uae.webp",
+        "title": "Licence UAE"
+      },
+      {
+        "image": "/images/licence_europe.webp",
+        "title": "Licence Europe"
+      },
+      {
+        "image": "/images/licence_asia.webp",
+        "title": "Licence Asia"
+      },
+      {
+        "image": "/images/licence_south_america.webp",
+        "title": "Licence South America"
+      },
+      {
+        "image": "/images/licence_australia.webp",
+        "title": "Licence Australia"
+      },
+      {
+        "image": "/images/licence_north_america.webp",
+        "title": "Licence North America"
+      },
+      {
+        "image": "/images/licence_nigeria.webp",
+        "title": "Licence Nigeria"
+      },
+      {
+        "image": "/images/licence_japan.webp",
+        "title": "Licence Japan"
+      },
+      {
+        "image": "/images/licence_ethiopia.webp",
+        "title": "Licence Ethiopia"
+      }
+    ],
+    "specials": {
+      "new": [
+        {
+          "image": "/images/premarket_launch.webp",
+          "title": "Premarket Launch",
+          "desc": "Traders are lining up",
+          "bg": "linear-gradient(180deg,#34d461,#262526)"
+        },
+        {
+          "image": "/images/hamster_drop.webp",
+          "title": "Hamster Kombat merch",
+          "desc": "Your reliable guide",
+          "bg": "linear-gradient(180deg,#ffbb37,#341300)"
+        },
+        {
+          "image": "/images/partner_announce_.webp",
+          "title": "TON + Hamster Kombat = Success",
+          "desc": "Web3 breakthrough is coming",
+          "bg": "linear-gradient(180deg,#0da7f4,#013048)"
+        },
+        {
+          "image": "/images/consensys_piranja_pass.webp",
+          "title": "Consensus Piranha Pass",
+          "desc": "Limited edition pass to elevate your experience at Consensus",
+          "bg": "linear-gradient(180deg,#2fd0cd,#091633)"
+        },
+        {
+          "image": "/images/lambo_for_ceo.webp",
+          "title": "Lambo for a Hamster CEO",
+          "desc": "To be an outstanding hamster",
+          "bg": "linear-gradient(180deg,red,#763a22 63.26%,#262526)"
+        },
+        {
+          "image": "/images/web3_academy_launch.webp",
+          "title": "Web3 academy launch",
+          "desc": "Edutainment = mass adoption",
+          "bg": "linear-gradient(180deg,#d26829,#431507)"
+        },
+        {
+          "image": "/images/hamster_youtube_gold_button.webp",
+          "title": "YouTube Gold button",
+          "desc": "26 hours speed run",
+          "bg": "linear-gradient(180deg,#ff4f4f,#262526)"
+        },
+        {
+          "image": "/images/youtube.webp",
+          "title": "Hamster YouTube Channel",
+          "desc": "Seems like hamsters are everywhere",
+          "bg": "linear-gradient(180deg,#000,#272a2f 63.26%,#262526)"
+        },
+        {
+          "image": "/images/bitcoin_pizza_day.webp",
+          "title": "Bitcoin Pizza Day",
+          "desc": "Hamster or pizza?",
+          "bg": "linear-gradient(180deg,#ffa73f,#391907)"
+        },
+        {
+          "image": "/images/top10_global.webp",
+          "title": "Top 10 Global Ranking",
+          "desc": "Hamster Kombat takes the lead",
+          "bg": "linear-gradient(180deg,#1c6bc7,#061638)"
+        },
+        {
+          "image": "/images/nft_collection_launch.webp",
+          "title": "NFT Collection Launch",
+          "desc": "Be on trend!",
+          "bg": "linear-gradient(180deg,#08c,#013048)"
+        },
+        {
+          "image": "/images/joe_rogan_podcast.webp",
+          "title": "Joe Roogan Podcast",
+          "desc": "Become even more legendary",
+          "bg": "linear-gradient(180deg,#56ffff,#291a3c)"
+        },
+        {
+          "image": "/images/dubai_office.webp",
+          "title": "Dubai office",
+          "desc": "Work in the heart of crypto",
+          "bg": "linear-gradient(180deg,#ff3f9b,#390707)"
+        },
+        {
+          "image": "/images/special_hamster_conference.webp",
+          "title": "Special Hamster Conference",
+          "desc": "Mega Event",
+          "bg": "linear-gradient(180deg,#ffa13f,#393107)"
+        },
+        {
+          "image": "/images/short_squeeze.svg",
+          "title": "Short squeeze",
+          "desc": "",
+          "bg": "linear-gradient(180deg,#34d461,#262526)"
+        },
+        {
+          "image": "/images/two_chairs.webp",
+          "title": "There are two chairs...",
+          "desc": "Welcome to TG office",
+          "bg": "linear-gradient(180deg,#ff7b7b,#262526)"
+        },
+        {
+          "image": "/images/long_squeeze.svg",
+          "title": "Long squeeze",
+          "desc": "",
+          "bg": "linear-gradient(180deg,#dd4c4c,#262526)"
+        },
+        {
+          "image": "/images/villa_for_dev_team.webp",
+          "title": "Villa for the DEV team",
+          "desc": "Fresh air will bring brilliant ideas",
+          "bg": "linear-gradient(180deg,#38b7df 34.08%,#262526)"
+        },
+        {
+          "image": "/images/apps_center_listing.webp",
+          "title": "Apps Center Listing",
+          "desc": "Steps to friendship with TON",
+          "bg": "linear-gradient(180deg,#ffa13f,#393107)"
+        },
+        {
+          "image": "/images/bogdanoff.webp",
+          "title": "Bogdanoff is calling",
+          "desc": "Is it pump or dump? Who knows",
+          "bg": "linear-gradient(180deg,#8256ff,#291a3c)"
+        },
+        {
+          "image": "/images/usdt_ton.svg",
+          "title": "USDT on TON",
+          "desc": "The future of peer-to-peer",
+          "bg": "linear-gradient(180deg,#08c,#013048)"
+        }
+      ],
+      "missed": [
+        {
+          "image": "/images/football_club_winner.webp",
+          "title": "Your partner football club is a winner",
+          "desc": "Good ROI, CEO",
+          "bg": "linear-gradient(180deg,#794aff,#1b0834)"
+        },
+        {
+          "image": "/images/hamster_daily_show.webp",
+          "title": "Hamster daily show",
+          "desc": "Watch on X every evening",
+          "bg": "linear-gradient(180deg,#38b7df 34.08%,#262526)"
+        },
+        {
+          "image": "/images/ceo_21m.webp",
+          "title": "21,000,000 CEOs",
+          "desc": "Hamsters are about to skyrocket",
+          "bg": "linear-gradient(180deg,#ff79e2,#1f1f1f)"
+        },
+        {
+          "image": "/images/hamster_ai.webp",
+          "title": "Hamster AI",
+          "desc": "Media Empire launch",
+          "bg": "linear-gradient(180deg,#a056ff,#1a223c)"
+        },
+        {
+          "image": "/images/notcoin_listing.webp",
+          "title": "Notcoin listing",
+          "desc": "List or NOT?",
+          "bg": "linear-gradient(180deg,#0ccb80 50%,#34383f)"
+        },
+        {
+          "image": "/images/venom_blockchain.webp",
+          "title": "Venom Blockchain",
+          "desc": "Secure by Design. Scalable by Nature.",
+          "bg": "linear-gradient(180deg,#42e0c1,#3188a7 56%,#021725)"
+        },
+        {
+          "image": "/images/contract_with_football_club.webp",
+          "title": "Ad contract with a football club",
+          "desc": "Make partners with the best",
+          "bg": "linear-gradient(180deg,#fff,#212121)"
+        },
+        {
+          "image": "/images/forbes.webp",
+          "title": "You inspire millions",
+          "desc": "Forbes is fascinated by you",
+          "bg": "linear-gradient(180deg, #adebff, #262526)"
+        },
+        {
+          "image": "/images/success_with_tucker.webp",
+          "title": "Success with Tooker",
+          "desc": "Prime Time Success",
+          "bg": "linear-gradient(180deg,#ac9787,#3f342a)"
+        },
+        {
+          "image": "/images/token2049.svg",
+          "title": "Token2049",
+          "desc": "",
+          "bg": "linear-gradient(180deg,#dd4cb1,#662ae6 50.5%,#262526)"
+        },
+        {
+          "image": "/images/taker_carlson_interview.svg",
+          "title": "Tooker Carlson interview",
+          "desc": "Become a legend",
+          "bg": "linear-gradient(180deg,#f7ae41,#262526)"
+        },
+        {
+          "image": "/images/save_hamsters.svg",
+          "title": "Save hamsters from drowning",
+          "desc": "More than it seems",
+          "bg": "linear-gradient(180deg,#5a60ff,#202332)"
+        },
+        {
+          "image": "/images/blockchain_life_2024.svg",
+          "title": "Blockchain Life 2024",
+          "desc": "",
+          "bg": "linear-gradient(180deg,#0086ff,#202732)"
+        }
+      ]
+    }
+  }
+}
