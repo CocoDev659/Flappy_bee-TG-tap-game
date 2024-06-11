@@ -1,5 +1,5 @@
 import React from "react";
-import Nav from "./Navigation/nav";
+import Nav from "./layout/header";
 
 const Exchangepg = () => {
   return (

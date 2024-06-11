@@ -11,7 +11,7 @@ const Friends = () => {
   // }, [])
 
   return (
-    <div className="pt-[20px] px-[10px] h-[100vh] overflow-y-scroll flex flex-col relative">
+    <div className="pt-[20px] px-[20px] h-[100vh] overflow-y-scroll flex flex-col relative">
       {/* <div className='absolute w-[200px] h-[200px] rounded-full bg-[#00FC87] top-0 right-[-100px] z-[20] blur-lg opacity-10'></div> */}
       <div className="flex flex-col items-center">
         <p className="text-[28px] text-white font-bold">Invite friends!</p>
@@ -20,9 +20,7 @@ const Friends = () => {
         </p>
       </div>
       <div className="flex flex-col gap-2">
-        <div
-          className="px-4 py-1 bg-black text-white border-[#272A2F] border-[1px] flex w-full justify-between items-center rounded-[8px]"
-        >
+        <div className="px-4 py-1 bg-black text-white border-[#272A2F] border-[1px] flex w-full justify-between items-center rounded-[8px]">
           <div className=" flex gap-3 py-2">
             <img width={45} height={30} src={"/gift (2).svg"} alt="" />
             <div className="flex flex-col gap-2">
@@ -38,9 +36,7 @@ const Friends = () => {
             </div>
           </div>
         </div>
-        <div
-          className="px-4 py-1 bg-black text-white border-[#272A2F] border-[1px] flex w-full justify-between items-center rounded-[8px]"
-        >
+        <div className="px-4 py-1 bg-black text-white border-[#272A2F] border-[1px] flex w-full justify-between items-center rounded-[8px]">
           <div className=" flex gap-3 py-2">
             <img width={45} height={30} src={"/gift (2).svg"} alt="" />
             <div className="flex flex-col gap-2">
@@ -69,7 +65,7 @@ const Friends = () => {
           <p className="text-white font-bold">List of your friends</p>
           <img src={"/reload.png"} width={25} height={20} alt="" />
         </div>
-        <div className="flex flex-col">
+        <div className="flex flex-col items-center">
           <div className="w-full relative flex items-center justify-center bg-[black] z-[5000] rounded-[8px] border-t-[2px]  py-4 border-t-[#1DCD5C]">
             <div className='before:absolute before:inset-y-0 before:w-[0.8px] before:h-full before:content-[""] before:bg-gradient-to-b before:from-[#00FC87] before:to-transparent before:right-0'></div>
             <div className='before:absolute before:inset-0 before:w-[0.5px] before:h-full before:content-[""] before:bg-gradient-to-b before:from-[#00FC87] before:to-transparent'></div>
@@ -77,7 +73,7 @@ const Friends = () => {
               You haven’t invited anyone yet
             </p>
           </div>
-          <img src={"/monsters.svg"} alt={""} width={430} height={100} />
+          <img src={"/assets/images/Yuki.png"} alt={""} width={"40%"} />
         </div>
         {/* <button className='bg-gradient-to-r from-[#1ED760] to-[#00FC87] w-full py-2 rounded-[8px]'>Invite a Friend</button> */}
         <button className="bg-gradient-to-r from-[#1ED760] to-[#00FC87] w-full py-2 rounded-[8px] animate-ease-in-out">
