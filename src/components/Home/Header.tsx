@@ -18,7 +18,7 @@ const Header = () => {
         <div className="w-7 h-7 flex items-center justify-center mr-1.5">
           <Bybit />
         </div>
-        <span className="text-white text-sm font-bold">Bybit</span>
+        <span className="text-white text-sm font-bold">Yuki</span>
       </Link>
     </header>
   )
