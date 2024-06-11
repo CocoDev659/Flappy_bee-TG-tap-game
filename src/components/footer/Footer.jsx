@@ -12,7 +12,7 @@ const Footer = () => {
 
     const data = [
         {
-            image: '/binance.svg',
+            image: '/assets/images/avax.png',
             title: 'Exchange',
             active: "/",
             link: "/exchange"
