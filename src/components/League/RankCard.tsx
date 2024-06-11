@@ -13,7 +13,7 @@ const RankCard: React.FC<RankCardProps> = ({
   name,
   coin,
   rank,
-  level,
+  // level,
   className,
 }) => {
   return (

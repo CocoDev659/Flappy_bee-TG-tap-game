@@ -1,5 +1,5 @@
 import { SMALL_COIN_IMAGE } from "../../constants/image"
-import Lock from "../svgs/Lock"
+// import Lock from "../svgs/Lock"
 
 interface SpecialUpgradeItemProps {
   image: string
@@ -20,8 +20,8 @@ const SpecialUpgradeItem: React.FC<SpecialUpgradeItemProps> = ({
   desc,
   lvl,
   reward,
-  disabled,
-  onClick,
+  // disabled,
+  // onClick,
   profitPerHour,
   bg,
   className,
