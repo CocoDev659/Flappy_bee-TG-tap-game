@@ -9,7 +9,7 @@ const Earn = () => {
           <Blur />
         </div>
         {/* <img src={SMALL_COIN_IMAGE} className="relative z-[2]" /> */}
-        <img src={"/public/images/icons/coinReward.png"} className="relative z-[2]" />
+        <img src={"/images/icons/coinReward.png"} className="relative z-[2]" />
       </div>
       <h2 className="text-[32px] font-bold leading-[44px] mb-3 mt-11 text-center">
         Earn more coins
