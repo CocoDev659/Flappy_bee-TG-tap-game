@@ -46,7 +46,7 @@ const Earn = () => {
         className="mb-1.5"
       />
       <TaskCard
-        image={"/public/images/icons/Bee-01.png"}
+        image={"/images/icons/Bee-01.png"}
         title="Choose your exchange"
         coin={5000}
         className="mb-1.5"
