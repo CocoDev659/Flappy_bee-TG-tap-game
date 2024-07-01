@@ -13,7 +13,7 @@ const Statistics: React.FC<StatisticsProps> = ({ className }) => {
         </p>
         <div className="flex items-center">
           <img
-            src={"/public/images/icons/coinReward.png"}
+            src={"/images/icons/coinReward.png"}
             alt="coin"
             className="h-5 w-5 min-w-5"
           />
@@ -32,7 +32,7 @@ const Statistics: React.FC<StatisticsProps> = ({ className }) => {
         </p>
         <div className="flex items-center">
           <img
-            src={"/public/images/icons/coinReward.png"}
+            src={"/images/icons/coinReward.png"}
             alt="coin"
             className="h-5 w-5 min-w-5"
           />
