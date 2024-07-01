@@ -9,12 +9,13 @@ const Earn = () => {
         <div className="absolute w-[275px] h-[275px] left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 z-[1]">
           <Blur />
         </div>
-        <img src={SMALL_COIN_IMAGE} className="relative z-[2]" />
+        {/* <img src={SMALL_COIN_IMAGE} className="relative z-[2]" /> */}
+        <img src={"/public/images/icons/coinReward.png"} className="relative z-[2]" />
       </div>
       <h2 className="text-[32px] font-bold leading-[44px] mb-3 mt-11 text-center">
         Earn more coins
       </h2>
-      <h4 className="font-bold mt-8 mb-5">Humster Youtube</h4>
+      <h4 className="font-bold mt-8 mb-5">FlappyBee Youtube</h4>
       <TaskCard
         image={"/images/youtube.webp"}
         title="New academy video"
@@ -46,7 +47,7 @@ const Earn = () => {
         className="mb-1.5"
       />
       <TaskCard
-        image={HAMSTER_IMAGE}
+        image={"/public/images/icons/Bee-01.png"}
         title="Choose your exchange"
         coin={5000}
         className="mb-1.5"
