@@ -8,7 +8,7 @@ const Airdrop = () => {
         <div className="absolute w-[275px] h-[275px] left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 z-[1]">
           <Blur />
         </div>
-        <img src={"/images/hamster_coin.webp"} className="relative z-[2]" />
+        <img src={"/images/icons/Bee-01.png"} className="relative z-[2]" />
       </div>
       <h2 className="text-[32px] font-bold leading-[44px] mb-3 mt-11 text-center">
         Airdrop tasks
