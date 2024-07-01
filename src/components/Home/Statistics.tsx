@@ -1,8 +1,8 @@
-import { SMALL_COIN_IMAGE } from "../../constants/image"
-import Info from "../svgs/Info"
+import { SMALL_COIN_IMAGE } from "../../constants/image";
+import Info from "../svgs/Info";
 
 interface StatisticsProps {
-  className?: string
+  className?: string;
 }
 
 const Statistics: React.FC<StatisticsProps> = ({ className }) => {
@@ -13,8 +13,12 @@ const Statistics: React.FC<StatisticsProps> = ({ className }) => {
           Earn per tap
         </p>
         <div className="flex items-center">
-          <img src={SMALL_COIN_IMAGE} alt="coin" className="h-5 w-5 min-w-5" />
-          <span className="ml-1.5 text-sm font-bold">+3</span>
+          <img
+            src={"/public/images/icons/coinReward.png"}
+            alt="coin"
+            className="h-5 w-5 min-w-5"
+          />
+          <span className="ml-1.5 text-sm font-bold">+1</span>
         </div>
       </div>
       <div className="flex flex-auto flex-col justify-center items-center rounded-[10px] min-h-[50px] bg-[#272a2f] select-none">
@@ -28,15 +32,19 @@ const Statistics: React.FC<StatisticsProps> = ({ className }) => {
           Profit per hour
         </p>
         <div className="flex items-center">
-          <img src={SMALL_COIN_IMAGE} alt="coin" className="h-5 w-5 min-w-5" />
-          <span className="ml-1.5 text-sm font-bold">+203</span>
+          <img
+            src={"/public/images/icons/coinReward.png"}
+            alt="coin"
+            className="h-5 w-5 min-w-5"
+          />
+          <span className="ml-1.5 text-sm font-bold">+300</span>
           <button className="text-[#4e4f50] hover:text-[#8b8e93] transition-all h-5 w-5 ml-1.5">
             <Info />
           </button>
         </div>
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default Statistics
+export default Statistics;

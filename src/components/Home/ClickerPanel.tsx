@@ -19,8 +19,8 @@ const ClickerPanel = () => {
         <div className="mx-auto bg-[linear-gradient(180deg,#5a60ff,#3b40934f_49.53%,#1c1f24)] rounded-full h-[300px] p-[15px] w-[300px] relative before:absolute before:content-[''] before:border before:border-[rgba(90,96,255,.15)] before:rounded-full before:top-0 before:left-0 before:w-full before:h-full">
           <div className="flex justify-center items-center border border-[rgba(39,39,39,0)] rounded-full shadow-[0_0_15px_#304669] h-full w-full z-[3] bg-[#272a2f] relative before:absolute before:content-[''] before:bg-[radial-gradient(circle,#3763ff_0,#3763ff00_80%)] before:top-0 before:left-0 before:w-full before:h-full before:rounded-full">
             <img
-              src={"/images/yuki/Yuki.png"}
-              width={"50%"}
+              src={"/images/FlappyBee.png"}
+              width={"70%"}
               alt="yuki"
               className="z-[2] select-none"
             />
