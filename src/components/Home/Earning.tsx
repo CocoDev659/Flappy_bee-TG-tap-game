@@ -1,5 +1,3 @@
-import { SMALL_COIN_IMAGE } from "../../constants/image"
-
 const Earning = () => {
   return (
     <div className="my-5 flex items-center justify-center select-none">
@@ -12,7 +10,7 @@ const Earning = () => {
         {(22654).toLocaleString("en-US")}
       </span>
     </div>
-  )
-}
+  );
+};
 
-export default Earning
+export default Earning;

@@ -1,8 +1,5 @@
 import { Link, useLocation } from "react-router-dom";
-import Bybit from "./svgs/Bybit";
 import Pickaxe from "./svgs/Pickaxe";
-import Users from "./svgs/Users";
-import Coins from "./svgs/Coins";
 
 const Navbar = () => {
   const { pathname } = useLocation();
