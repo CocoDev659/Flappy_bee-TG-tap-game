@@ -1,4 +1,3 @@
-import { SMALL_COIN_IMAGE } from "../../constants/image";
 import Info from "../svgs/Info";
 
 interface StatisticsProps {

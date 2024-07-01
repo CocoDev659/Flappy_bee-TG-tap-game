@@ -1,6 +1,4 @@
 import { Link } from "react-router-dom";
-import Bybit from "../svgs/Bybit";
-import { AVATAR_IMAGE } from "../../constants/image";
 
 const Header = () => {
   return (

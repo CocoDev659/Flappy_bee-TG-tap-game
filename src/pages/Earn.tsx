@@ -1,6 +1,5 @@
 import TaskCard from "../components/TaskCard"
 import Blur from "../components/svgs/Blur"
-import { HAMSTER_IMAGE, SMALL_COIN_IMAGE } from "../constants/image"
 
 const Earn = () => {
   return (
