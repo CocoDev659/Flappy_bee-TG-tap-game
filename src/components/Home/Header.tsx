@@ -16,7 +16,7 @@ const Header = () => {
         <div className="w-7 h-7 flex items-center justify-center mr-1.5">
           <img src={"/images/icons/Bee-01.png"} width={"30px"} />
         </div>
-        <span className="text-white text-sm font-bold">Flappy</span>
+        <span className="text-white text-sm font-bold">Honesty</span>
       </Link>
     </header>
   );
